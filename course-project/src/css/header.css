@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  height: 80px;
+  background-color: rgb(55, 82, 144);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: azure;
+}
+.headerLinks .navLink {
+  position: relative;
+  right: 50px;
+  list-style-type: none;
+}
+
+.headerTitle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 50px;
+}
